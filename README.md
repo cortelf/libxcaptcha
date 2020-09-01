@@ -22,6 +22,3 @@ std::string response = x.getTaskResponse(id);
 
 ## Usage
 * Wait 20-25 seconds between send captcha and get response from task id
-
-## Author
-* Telegram: @ILoveYa
